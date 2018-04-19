@@ -13,5 +13,9 @@ We can control two parameters, <code>spatial_radius</code> and <code>color_radiu
 ## Clustering ##
 - Connect neighboring pixel if they belong to same mode(cluster) using stack.
 
+# Input #
+
+# Output #
+
 
 
