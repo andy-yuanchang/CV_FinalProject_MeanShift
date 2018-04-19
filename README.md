@@ -10,6 +10,8 @@ We can control two parameters, spatial_radius and color_radius. The input is a p
 2. For every pixel calculate the mean vector when the pixel(x,y)'s distance between center < spatial bandwidth, color(l,u,v) of the pixel and the center’s distance < range bandwidth.
 3. Let the original pixel’s color equal to the final center’s color.
 4. Eliminate spatial regions containing less than M pixels.
+## Clustering ##
+- Connect neighboring pixel if they belong to same mode(cluster) using stack.
 
 
 
