@@ -1,7 +1,7 @@
 # CV-Final-Project-MeanShift 
 This is a final project in a course called computer vision.
 # Usage #
-The programming model inclues a function <p><code>MeanShift(const IplImage*, int**)</code></p>. It will return a integer, the clustering result. The amount of colors depends on clustering number.
+The programming model inclues a function <code>MeanShift(const IplImage*, int**)</code>. It will return a integer, the clustering result. The amount of colors depends on clustering number.
 
 We can control two parameters, spatial_radius and color_radius. The input is a picture and output is a picture after doing meanshift.
 # Method #
