@@ -6,5 +6,6 @@ This is a regular paragraph.
         <td>Foo</td>
     </tr>
 </table>
--------------
+
 This is another regular paragraph.
+* * *
