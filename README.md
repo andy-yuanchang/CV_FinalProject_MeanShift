@@ -14,10 +14,27 @@ We can control two parameters, <code>spatial_radius</code> and <code>color_radiu
 - Connect neighboring pixel if they belong to same mode(cluster) using stack.
 
 # Results #
-(spitial_radius, color_radius, M)
-## Figure1 ##
+The number after output respectively resprent (spitial_radius, color_radius, M).
+## Figure 1 ##
 [!input](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg)
-[!output(16,9,20)](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png)
+
+[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png)
+
+[!cluster_result(16,9,20)](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png)
+## Figure 2 ##
+[!input](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2.jpg)
+
+[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/filtered.png)
+
+[!cluster_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/cluster.png)
+## Figure 3 ##
+[!input](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3.jpg)
+
+[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/filtered.png)
+
+[!cluster_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/cluster.png)
+
+[!edge_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/edge_result.png)
 
 
 
