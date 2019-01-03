@@ -17,12 +17,18 @@ We can control two parameters, <code>spatial_radius</code> and <code>color_radiu
 The number after output respectively resprent (spitial_radius, color_radius, M).
 ## Figure 1 ##
 <p float="left">
+  <figure>
   figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg"/>
+  </figure>
+  <figure>
   figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png"/>
+  </figure>
+  <figure>
   figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png"/>
+  </figure>
 </p>
 [!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png)
 
