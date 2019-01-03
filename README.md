@@ -17,30 +17,25 @@ We can control two parameters, <code>spatial_radius</code> and <code>color_radiu
 The number after output respectively resprent (spitial_radius, color_radius, M).
 ## Figure 1 ##
 <p float="left">
-  Fig.1 - Input image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg"/>
-  Fig.1 - Filtered image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png"/>
-  Fig.1 - Clustering image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png"/>
 </p>
-[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png)
 
-[!cluster_result(16,9,20)](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png)
 ## Figure 2 ##
-[!input](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2.jpg)
+<p float="left">
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2.jpg"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/filtered(16%2C19).png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/cluster(16%2C19).png"/>
+</p>
 
-[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/filtered.png)
-
-[!cluster_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/cluster.png)
 ## Figure 3 ##
-[!input](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3.jpg)
-
-[!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/filtered.png)
-
-[!cluster_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/cluster.png)
-
-[!edge_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/edge_result.png)
+<p float="left">
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3.jpg"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/filtered(16%2C19).png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/cluster(16%2C19).png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/edge_result.png"/>
+</p>
 
 
 
