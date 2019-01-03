@@ -25,15 +25,15 @@ The number after output respectively resprent (spitial_radius, color_radius, M).
 ## Figure 2 ##
 <p float="left">
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2.jpg"/>
-  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/filtered(16%2C19).png"/>
-  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/cluster(16%2C19).png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/filtered.png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image2/image2_result/cluster.png"/>
 </p>
 
 ## Figure 3 ##
 <p float="left">
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3.jpg"/>
-  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/filtered(16%2C19).png"/>
-  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/cluster(16%2C19).png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/filtered.png"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/cluster.png"/>
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image3/image3_result/edge_result.png"/>
 </p>
 
