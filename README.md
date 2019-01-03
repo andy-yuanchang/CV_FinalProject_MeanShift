@@ -19,7 +19,7 @@ The number after output respectively resprent (spitial_radius, color_radius, M).
 <p float="left">
   <figure>
   figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg"/>
+  <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg" width = "80%"/>
   </figure>
   <figure>
   figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
