@@ -17,11 +17,11 @@ We can control two parameters, <code>spatial_radius</code> and <code>color_radiu
 The number after output respectively resprent (spitial_radius, color_radius, M).
 ## Figure 1 ##
 <p float="left">
-  <figcaption>Fig.1 - Input image.</figcaption>
+  Fig.1 - Input image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1.jpg"/>
-  <figcaption>Fig.1 - Filtered image.</figcaption>
+  Fig.1 - Filtered image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png"/>
-  <figcaption>Fig.1 - Clustering image.</figcaption>
+  Fig.1 - Clustering image.
   <img src="https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/cluster(16%2C19).png"/>
 </p>
 [!filtered_result](https://github.com/YuAnChang1993/CV-Final-Project-MeanShift/blob/master/image1/image1_result/filtered(16%2C19).png)
